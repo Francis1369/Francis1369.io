@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>city</title>
+      <link href="/blog/city/"/>
+      <url>/blog/city/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>城市评论</title>
       <link href="/blog/%E5%9F%8E%E5%B8%82%E8%AF%84%E8%AE%BA/"/>
       <url>/blog/%E5%9F%8E%E5%B8%82%E8%AF%84%E8%AE%BA/</url>
